@@ -6,7 +6,8 @@ print(input[2:])              # From index 2 to end
 print(input[3:6])             # From index 3 to 5
 print(input[:6:2])            # From index 0 to 5, every 2nd character
 print(input[::2])             # Entire string, every 2nd character
-print(input[1:len(input):2])  # Characters at odd indices
+print(input[1:len(input):2])  # Characters at odd indices 
+                              #len(input) gives length of a string inside varaiable input
 
 #Reverse Sttring
 print("Reverse String:", input[::-1])

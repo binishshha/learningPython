@@ -1,3 +1,4 @@
+#dictonary
 subjects = {
     "name": "Artificial Intelligence",
     "level": "4th sem",
